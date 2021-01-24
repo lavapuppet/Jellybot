@@ -1,6 +1,12 @@
-module.exports = function (msg, args) {
-    console.log(msg.content);
-    if (msg.content === '^_-'){ 
-        msg.reply('steven: -_^');
-    }
-}
+
+const replies = [
+    'Omg xD',
+    '😛',
+    'Lol sorry',
+    'brb curling'
+]
+module.exports = function (msg, tokens) {
+    //if (args === '^_-'){ 
+    msg.reply('-_^');
+    //}
+}!gif cat
