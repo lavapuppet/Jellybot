@@ -9,4 +9,4 @@ module.exports = function (msg, tokens) {
     //if (args === '^_-'){ 
     msg.reply('-_^');
     //}
-}!gif cat
+}

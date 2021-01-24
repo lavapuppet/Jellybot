@@ -16,7 +16,6 @@ module.exports = async function (msg) {
         let tokens = msg.content.split(' ');
         //let command=tokens.shift();
         if(tokens.indexOf("^_-")> -1){
-            console.log(commands)
             stevenisms(msg, tokens);
         }
         else{
