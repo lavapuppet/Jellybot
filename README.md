@@ -1,0 +1,2 @@
+# Jellybot
+Jellys discord bot
