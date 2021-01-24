@@ -1,0 +1,19 @@
+{
+  "name": "jellybot",
+  "version": "1.0.0",
+  "description": "Jellys discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavapuppet/Jellybot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavapuppet/Jellybot/issues"
+  },
+  "homepage": "https://github.com/lavapuppet/Jellybot#readme"
+}
